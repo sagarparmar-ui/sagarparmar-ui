@@ -4,4 +4,4 @@ Hi, I'm Sagar, a seasoned MERN Full Stack Developer based in Toronto. I transfor
 	•	👨‍💻 I’m always working on open-source projects, coding challenges, and personal projects.
 	•	🔍 Looking for opportunities in full-stack development and software engineering roles.
 	•	📝 I write about development and tech tips on my Blog.
-	•	📫 [Reach me at](sagarparmar-dev@outlook.com) or on LinkedIn.
+	•	📫 Let's get into touch ➤[Email me on](sagarparmar-dev@outlook.com) or on [Linkedin]([url](https://www.linkedin.com/in/sagarparmar-dev/)).
